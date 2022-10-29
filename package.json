@@ -1,0 +1,16 @@
+{
+"name": "ak111bet",
+"theme": "ak111bet",
+"version": "2.9.3",
+"description": "ak111bet ทางเข้าเว็บพนันเว็บตรง ไม่ผ่านเอเย่นต์ ให้โบนัสเครดิตฟรี",
+"keywords": [
+"ak111bet",
+"ak111bet เครดิตฟรี",
+"ak111bet ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/ak111bet",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
